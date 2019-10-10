@@ -8,3 +8,5 @@ Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 Y esto de arriba es la foto de unas Suricatas.
 
 Acabo de cambiar el correo y usuario por consola !!!
+
+Se verifica que haya subido el commit con el nuevo usuario y se agrega este commit para validar el cambio
